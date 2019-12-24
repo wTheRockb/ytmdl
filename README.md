@@ -95,6 +95,8 @@ optional arguments:
 
 ```
 
+The default download location is `~/Music`.
+
 ## Change Defaults
 
 #### The defaults can be changed by editing the config file in ytmdl folder in your .config folder
